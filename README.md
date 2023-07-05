@@ -1,6 +1,7 @@
 # GROWTH AND PERFORMANCE: Analyzing HR Data to Improve Employee Retention and Performance.
 
 _Project Timeframe: 1/05/2023–05/05/2023_
+
 ![](Home_Page_M.jpg)
 
 ## INTRODUCTION
